@@ -1,3 +1,3 @@
 a=10
-b=c
+b=z
 print (a+b)
